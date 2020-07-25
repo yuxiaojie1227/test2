@@ -1,1 +1,5 @@
 jxk
+
+public static viod test(){
+    System.out.println("123");
+}
